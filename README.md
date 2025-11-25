@@ -1,7 +1,6 @@
 # 📬 Spam Detection App
 
-This project is built to detect **spam messages** using a **Long Short-Term Memory (LSTM)** model combined with **Word2Vec** as the word embedding technique.  
-The model has been optimized using **Grid Search**, achieving a best accuracy of **95.65%**.
+This project is built to detect **spam messages** using a **Long Short-Term Memory (LSTM)** model combined with **Word2Vec** as the word embedding technique. The model has been optimized using **Grid Search**, achieving a best accuracy of **95.65%**.
 
 ---
 

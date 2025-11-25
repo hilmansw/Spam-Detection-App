@@ -8,6 +8,9 @@ import tensorflow as tf
 from gensim.models import Word2Vec
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
+
+import nltk
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
 

@@ -8,7 +8,7 @@ This project is built to detect **spam messages** using a **Long Short-Term Memo
 
 Comparison of model performance before and after optimization:
 
-| Metric    | Before Optimization | After Optimization |
+| Metrics   | Before Optimization | After Optimization |
 | --------- | ------------------- | ------------------ |
 | Precision | 0.8939              | 0.9365             |
 | Recall    | 0.9833              | 0.9833             |
